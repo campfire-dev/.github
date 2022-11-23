@@ -1,5 +1,5 @@
-<i>Goodbye Twitter</i>
+<i>Goodbye Twitter</i><br>
 <b>Hello Circles</b>
 
-Follow us:
-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CirclesDev)
+Follow us:<br>
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CirclesDev)
